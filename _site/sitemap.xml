@@ -2,6 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/docs/customization/</loc>
+<<<<<<< HEAD
 <lastmod>2023-10-12T01:26:04-03:00</lastmod>
 </url>
 <url>
@@ -23,6 +24,29 @@
 <url>
 <loc>http://localhost:4000/docs/themes/</loc>
 <lastmod>2023-10-12T01:26:04-03:00</lastmod>
+=======
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/docs/bootstrap/</loc>
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/docs/cheatsheet/</loc>
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/docs/font-awesome/</loc>
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/docs/home/</loc>
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/docs/themes/</loc>
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+>>>>>>> 33cba00e8660d8a60c69e3da30fee3b48c3e1fda
 </url>
 <url>
 <loc>http://localhost:4000/2017/02/01/welcome-to-jekyll.html</loc>
@@ -34,6 +58,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/projects/</loc>
+<<<<<<< HEAD
 <lastmod>2023-10-12T01:26:04-03:00</lastmod>
 </url>
 <url>
@@ -43,6 +68,17 @@
 <url>
 <loc>http://localhost:4000/team/</loc>
 <lastmod>2023-10-12T01:26:04-03:00</lastmod>
+=======
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/publications/</loc>
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/team/</loc>
+<lastmod>2023-10-10T16:34:29-03:00</lastmod>
+>>>>>>> 33cba00e8660d8a60c69e3da30fee3b48c3e1fda
 </url>
 <url>
 <loc>http://localhost:4000/allposts.html</loc>
@@ -50,4 +86,11 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<<<<<<< HEAD
+=======
+<url>
+<loc>http://localhost:4000/assets/Foundation-Sites-CSS/</loc>
+<lastmod>2021-11-02T05:47:20-03:00</lastmod>
+</url>
+>>>>>>> 33cba00e8660d8a60c69e3da30fee3b48c3e1fda
 </urlset>
