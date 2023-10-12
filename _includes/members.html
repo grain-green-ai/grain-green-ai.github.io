@@ -1,0 +1,17 @@
+<div class="row" >
+  {% for entry in include.members %}
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="panel panel-default author">
+        <div class="author_pic author" align="center">
+          <img src="/assets/img/team/{{ entry.image | relative_url }}" style="border-radius: 50%;"/>
+        </div>
+        <div class="panel-body">
+            <span class="text-primary"><a href=" {{ entry.link }}">{{ entry.title }}</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}  
+</div>
+

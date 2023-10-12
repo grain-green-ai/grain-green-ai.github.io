@@ -1,0 +1,37 @@
+- 
+  name: "Claudio Miceli de Farias"
+  title: "Claudio Miceli"
+  image: "claudio.jpg"
+  link: "https://www.cos.ufrj.br/index.php/pt-BR/telefones-do-pesc/details/3/2783"
+  type: "faculty"
+  institute: "COPPE/UFRJ"
+- 
+  name: "Leandro Santiago de Araújo"
+  title: "Leandro Santiago"
+  image: "leandro.jpg"
+  link: "leandro-santiago.github.io/"
+  type: "faculty"
+  institute: "UFF"
+-
+  name: "Leopoldo André Dutra Lusquino Filho"
+  title: "Leopoldo Lusquino"
+  image: "leopoldo.jpg"
+  link: "https://www.sorocaba.unesp.br/#!/graduacao/engenharia-de-controle-e-automacao/docentes/leopoldo/"
+  type: "faculty"
+  institute: "Unesp Sorocaba"
+-
+  name: "Darllan Collins da Cunha e Silva"
+  title: "Darllan Collins"
+  image: "darlan_unesp.jpg"
+  link: "https://unesp.br/portaldocentes/docentes/195318"
+  type: "faculty"
+  institute: "Unesp Sorocaba"
+-
+  name: "Luis Armando De Oro Arenasa"
+  title: "Luis Armando"
+  image: "luis-arenas_unesp.jpg"
+  link: "https://www.sorocaba.unesp.br/#!/graduacao/engenharia-ambiental/docentes/luis/"
+  type: "faculty"
+  institute: "Unesp Sorocaba"
+
+

@@ -1,0 +1,55 @@
+- 
+  title: "Desenvolvimento de Redes Neurais Eficientes Energeticamente para Análise de
+Séries Temporais no Contexto de Gestão de Redes Elétricas Inteligentes"
+  description: "(i) Elaborar redes neurais eficientes energeticamente para análise de séries
+temporais no contexto de planejamento energético em redes elétricas inteligentes; (ii)
+empregar arquiteturas robustas, como redes recorrentes e transformers, para garantir uma
+boa performance nas tarefas de predição de produção e consumo energético, classificação
+de perfil de carga e detecção de anomalias no grid; (iii) utilizar técnicas de aceleração do
+treinamento, compactação da topologia e reuso eficiente dos modelos já treinados para
+alcançar eficiência energética; (iv) desenvolver arquiteturas híbridas entre redes neurais
+deep e modelos sem peso, visando obter um equilíbrio entre acurácia preditiva, eficiência
+energética e baixo custo computacional; (v) avaliar os modelos propostos em datasets
+consolidados na literatura e em dados históricos coletados no Instituto de Ciência e
+Tecnologia de Sorocaba da Unesp; (vi) medir a eficiência energética dos modelos por meio
+de métricas usuais da área de green AI, como latência e throughput em GPU, e desenvolver
+uma métrica específica para avaliar a economia de energia proporcionada pelo reuso de
+modelos previamente treinados em diferentes datasets e tarefas, considerando sua
+performance e custo computacional."
+- 
+  title: "Escalonamento Eficiente de Tarefas de Análise da Qualidade de Dados:
+Potencializando a Eficiência Energética na Gestão de Espaços Inteligentes"
+  description: "(i) Desenvolver uma abordagem de escalonamento eficiente de tarefas de
+análise da qualidade de dados em espaços inteligentes - fazendas inteligentes, cidades
+inteligentes, casas inteligentes, entre outros; (ii) Desenvolver uma abordagem eficiente para
+medir o gasto energético no contexto de planejamento do consumo energético das
+infraestruturas de espaços inteligentes; (iii) Utilizar técnicas melhorar a qualidade dos dados
+em espaços inteligentes melhorando o consumo energético das redes; (iv) Desenvolver
+arquiteturas de espaços inteligentes com gestão da qualidade dos dados e de consumo de
+energia; (v) Avaliar o uso de técnicas de para avaliar e melhorar a qualidade dos dados
+coletados por espaços inteligentes enquanto observando o gasto energético das
+infraestruturas de espaços inteligentes; (vi) Desenvolver um arcabouço de técnicas e
+escalonamento para operacionalizar espaços inteligentes procurando a melhor qualidade
+dos dados com o melhor consumo de energia."
+-
+  title: "Memórias Associativas baseadas em Redes Neurais Sem Peso para Computação Hiperdi-
+mensional"
+  description: "A Computação Hiperdimensional (do inglês Hyperdimensional Computing, HDC) usa vetores
+binários de altas dimensões, chamados de hipervetores, para realizar tarefas cognitivas. Devido à
+sua simplicidade e paralelismo maciço, a HDC pode ser altamente eficiente em termos de energia e
+adequada para plataformas com recursos limitados. No entanto, ao negociar a ortogonalidade com
+eficiência, os hipervetores podem usar dezenas de milhares de dimensões. Na tarefa de classificação,
+cada classe é representada como um hipervetor construído durante a fase de treinamento que resume
+as características extraídas dos dados de treinamento. Após a fase de treinamento, os hipervetores
+das classes são armazenados numa memória associativa. A fase de inferência consiste em gerar
+um hipervetor do dado de teste e comparar a similidaridade dele com todos os hipervetores das
+classes. Tipicamente, cada hipervetor armazenado na memória associativa possui 10.000 dimensões
+e a comparação de similaridade dos hipervetores considera todas as dimensões. Por outro lado, Redes
+Neurais sem Peso (RNSP) são Redes Neurais Artificiais baseadas em memória RAM amplamente
+exploradas como solução para aplicações de reconhecimento de padrões em sistemas embarcados com
+requisitos de processamento em tempo real. Recentemente, foi estabelecido uma relação fundamental
+entre RNSP e Bloom filter, apresentando uma nova estrutura unificada que engloba os dois, no qual
+uma RNSP pode ser enquadrada como um Bloom filter segmentado por memória. O objetivo deste
+projeto é propor um conjunto de novas técnicas para construir modelos de HDC que usam hipervetores
+binários de dimensões que são ordens de magnitude menores através do uso de modelos de RNSP e
+Bloom Filter como memória associativa."
