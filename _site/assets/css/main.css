@@ -2439,9 +2439,8 @@ body { padding-top: 87px; margin-bottom: 46px; }
 
 .navbar-brand img { margin: -20.5px 0; height: 64px; padding: 10px 0; }
 
-.header-container { background-color: black; background: url("../img/bg1.jpg") no-repeat 50% 0; color: #fff; background-size: cover; background-position: center 36%; margin-top: -37px; padding-top: 150px; }
-.header-container h1 { color: #fff; }
-.header-container strong { color: #fff; }
+.header-container { background-color: #f5f5f5; background-size: cover; background-position: center 36%; margin-top: -37px; padding-top: 150px; }
+.header-container h1 { color: #2a303e; }
 
 .navbar-container { font-size: 16px; }
 

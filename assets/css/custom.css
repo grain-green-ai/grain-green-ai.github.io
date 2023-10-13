@@ -20,4 +20,11 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  .author_pic img {
+    height: 200px;
+    max-height: 200px;
+    max-width: 200px;
+    object-fit: scale-down;
+  }
   
