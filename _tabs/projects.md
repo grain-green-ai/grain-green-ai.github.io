@@ -15,7 +15,7 @@ Here are the research projects we are currently working on:
   <th>Project</th>
   <th>Description</th>
 </tr>
- gh-pages
+ 
 {% for entry in site.data.projects %}
 <tr>
   <td>{{ entry.title }}</td>
